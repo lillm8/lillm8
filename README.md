@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lillm8
-- 👀 I’m interested in sports, maths programing and learning about new things in general
-- 🌱 I’m currently learning how to use Git
-- 💞️ I’m looking to collaborate on nothing for the moment
+- 👀 I’m interested in maths and AI
 - 📫 How to reach me youssefemilio127@gmail.com
 
 <!---
